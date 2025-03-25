@@ -1,1 +1,1 @@
-# my-nodejs-app nginx-app
+# my-nodejs-app
